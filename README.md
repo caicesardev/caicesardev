@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hello, my name is Caio and i'm a software developer.<br><br>🎯 My specialities are web and desktop development.<br><br>🌐 As a web developer i use technologies such as PHP, Java, JavaScript, HTML, CSS and MySQL.<br><br>💻 As a desktop developer i use Python with Qt, MySQL and C# with WPF (MVVM).<br><br>I live in Spain and I love cats 😺 and coffe ☕.
-
+👋 Hello, my name is Caio and i'm a software developer.<br><br>🎯 My specialities are web and desktop development.<br><br>🌐 As a web developer i use technologies such as PHP, Java, JavaScript, HTML, CSS and MySQL.<br><br>💻 As a desktop developer i use Python with Qt, MySQL and C# with WPF (MVVM).<br>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CaioCes00086736) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caicesardev@gmail.com) 
